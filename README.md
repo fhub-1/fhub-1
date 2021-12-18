@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on **Building Portfolio**
 
+- 🌱 I’m currently learning **React,NextJS,VueJS**
+
+- 👯 I’m looking to collaborate on **Front-end Development**
+
+- 🤝 I’m looking for help with **front-end Development**
+
 - 👨‍💻 All of my projects are available at [flutterhub.online](flutterhub.online)
 
 - 📝 I regularly write articles on [https://medium.com/@hackthecoding](https://medium.com/@hackthecoding)
@@ -19,8 +25,18 @@
 
 - ⚡ Fun fact **I love doing something great with new tech**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/flutter_hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/flutter_hub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joseph-kitheka-4827a01a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-kitheka-4827a01a7/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jose.josek.5872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jose.josek.5872" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://flutterhub.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://flutterhub.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://medium.com/@hackthecoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hackthecoding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucaodlwyutcgx5pjnsi2dnig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucaodlwyutcgx5pjnsi2dnig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
