@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Kitheka</h1>
 <h3 align="center">A passionate front-end developer from Kenya</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fhub-1" alt="fhub-1" />
   
-<!--   </a align="right"> </p><a href="https://app.daily.dev/hackthecoding"><img src="https://api.daily.dev/devcards/937f2c60ce524cf4afd99dd6f9a0422a.png?r=0mb" width="400" alt="Joseph kitheka's Dev Card"/></a> -->
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=fhub-1&label=Profile%20views&color=0e75b6&style=flat" alt="fhub-1" /> </p>
-
+  </a align="right"> </p><a href="https://app.daily.dev/hackthecoding"><img src="https://api.daily.dev/devcards/937f2c60ce524cf4afd99dd6f9a0422a.png?r=0mb" width="400" alt="Joseph kitheka's Dev Card"/></a>
 
 
 
@@ -19,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [flutterhub.online](flutterhub.online)
 
-- 📝 I regularly write articles on [https://medium.com/@hackthecoding](https://medium.com/@hackthecoding)
+- 📝 I regularly write articles on [https://medium.com/@learnwithjoseph](https://medium.com/@learnwithjoseph)
 
 - 💬 Ask me about **React, Nextjs, Redux, vuejs,Firebase**
 
