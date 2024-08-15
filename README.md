@@ -10,7 +10,7 @@
 I'm Joseph Kitheka, and I wield React, Node.js, and GraphQL like digital paintbrushes to craft front-end experiences that delight users and back-end architectures that hum efficiently. My passion extends beyond personal projects—I'm deeply committed to empowering others to embark on their own coding journeys. Through my [YouTube channel](https://www.youtube.com/@Learnwithjoseph), with over 400+ subscribers and 30,732+ video views, I create engaging tutorials, tips, and demos that demystify complex concepts and ignite excitement for web development.
 
 ### 🔭 Currently Working On
-- Building a **Personal Portfolio** that showcases my skills, projects, and contributions.
+- Building a **SaaS Ideas** that showcases my skills, projects, and contributions.
 
 ### 🌱 Always Learning
 - Expanding my knowledge in **React**, **Next.js**, and exploring new frameworks like **Vue.js**.
